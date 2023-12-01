@@ -10,4 +10,4 @@ Also currently learning all about functional programming using Haskell.
 
 Connect with me in [Linkedin](https://www.linkedin.com/in/santiago-garcia-591286212/)
 
-Shoot me an [email](mailto:sagaan@outlook.com)
+Shoot me an [email](mailto:santi14@uw.edu)
